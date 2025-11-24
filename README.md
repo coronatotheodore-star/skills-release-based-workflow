@@ -25,7 +25,7 @@ _Create a release based workflow that is built on the foundations of the GitHub 
 
 ## Step 1: Create a beta release
 
-_Welcome to "Release-based workflow" :sparkle:_
+_Welcome to "Release-based workflow" :sparkle:_main
 
 ### The GitHub flow
 
